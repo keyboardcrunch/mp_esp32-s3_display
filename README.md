@@ -1,6 +1,7 @@
 # ESP32-S3 (Arduino Nano) Display Server
 
 This repository contains the code for an Arduino Nano, ESP32-S3, with an 8 segment MAX7219 running MicroPython.
+![screen](./screen2.jpeg)
 
 ## Features
 * WiFi connection
